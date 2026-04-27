@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.filters import Command
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "8637648331:AAGF7LcqJhXtDIVdfbzNCO1z0wMhDbOnVRQ"
 ADMIN_ID = 5523761749
 CHANNEL = "vaelux"
 
